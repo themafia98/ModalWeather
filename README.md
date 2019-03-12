@@ -6,23 +6,10 @@ Modal with API openweathermap
 2) Connect jquery.js
 3) Open WeatherWidjet.js and find getAPI then change on your API key 
 
-
-HTML
-``
-<input type="button" class='open' value="W" >
-<div class = "container">
-        <img class="load" src="282.gif">
-        <input type="button" value='X' class='close'>
-        <div class='btn'><input type="button" value='3 DAY FORECAST' class='day3Open'></div>
-        <p class='dgr'></p>
-        <p class='hide' data-day='1'></p>
-        <p class='hide' data-day='2'></p>
-        <p class='hide' data-day='3'></p>
-</div>
-``
+HTML for widjet in index.html
 
 
-
+CSS for widjet in style.css
 
 ``
             this.getAPID = function () {
