@@ -13,7 +13,7 @@
             this.coordsMisnk = 'lat=53.9023&lon=27.5619';
 
             this.getAPID = function () {
-            return this.APID = 'fcec3450dbf00eb6e012fa3766c6d11d';
+            return this.APID = 'YOU API ID';
             }
             this.getAPI = function () {
                 if(localStorage.latitude && localStorage.longitude){
