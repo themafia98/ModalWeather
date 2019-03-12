@@ -14,5 +14,7 @@ Modal with API openweathermap
             }
 ``
 
+3)  initialize the script: ``weather.init();``
+
 
 PavelP
