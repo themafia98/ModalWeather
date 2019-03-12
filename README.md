@@ -1,7 +1,7 @@
 # ModalWeather
 Modal with API openweathermap
 
-HTML for widjet in index.html
+HTML for widjet in weather.html
 
 
 CSS for widjet in style.css
